@@ -336,3 +336,8 @@ panna
 alcol
 nachos
 salsa piccante
+ornitorinco
+scimpanze
+rinoceronte
+ippopotamo
+elefante
