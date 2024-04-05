@@ -17,3 +17,7 @@ liquirizia
 posseduto
 pennello
 cono
+nemo
+spagna
+labirinto
+scivoloso
