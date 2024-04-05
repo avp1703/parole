@@ -3,3 +3,7 @@ mal di schiena
 cane
 gatto
 pesce rosso
+gru
+gomma
+pallone
+cannone
