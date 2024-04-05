@@ -323,3 +323,5 @@ basco
 fondale
 israele
 foresta
+gelato
+bebe
