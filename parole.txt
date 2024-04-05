@@ -166,7 +166,7 @@ vernice spray
 piccione
 remo
 limonata
-chiuaua
+chihuahua
 fango
 bacchetta magica
 sedia a rotelle
@@ -403,3 +403,8 @@ mr. bean
 verdure
 scienziato
 mucca
+acciughe
+uovo
+mandorla
+dab
+desolazione
