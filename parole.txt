@@ -1263,3 +1263,4 @@ saturno
 cuore spezzato
 nodo
 volo
+cabina telefonica
