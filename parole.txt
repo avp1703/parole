@@ -1444,3 +1444,46 @@ pomello
 alieno
 scavo
 supermercato
+video
+viola
+retta
+calcolatrice
+glassa
+gesso
+pasto
+sciarpa
+camion dei pompieri
+charlie chaplin
+lettiera
+camminare
+nerd
+radiazione
+giappone
+spallucce
+lampione
+tesoro
+samurai
+temperamatite
+passeggino
+sanguisuga
+barbiere
+razzo
+bozzolo
+inquinamento
+bacino
+cheeseburger
+baguette
+difendere
+munizioni
+piastrella
+toenail
+veterinario
+biglietto da visita
+magnete
+pozzanghera
+astronauta
+cattedrale
+lozione
+grano
+impasto
+bioma
